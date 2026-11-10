@@ -1,10 +1,10 @@
 IP Address,Hostname,MAC Address,Manufacturer
 192.168.1.xx,unknown689a87dd06dd.attlocal.net,58:9A:97:DD:06:hD,Ama
-192.168.1.xx,MyQ-ACF.attlocal.net,CC:7A:20:h5:2C:g4,The Chamberlain 
-192.168.1.xx,09AA01AC43170XQC.attlocal.net,64:16:66:04:C2:48,Nest
-192.168.1.xx,LGwebOSTV.attlocal.net,87:45:ee:65:ff:hg,Arcadyan
-192.168.1.xx,dsldevice.attlocal.net,ii:91:ff:C1:cx:vv,WNC
-192.168.1.xxx,MacBookAir.attlocal.net,Unknown,Unknown
+192.168.1.xx,MyQ-AC.attlocal.net,CC:7A:20:h5:2C:g4,The Chamberlain 
+192.168.1.xx,09AAAC43170XQC.attlocal.net,64:16:66:04:C2:48,Nest
+192.168.1.xx,LhwebOSTV.attlocal.net,87:45:ee:65:ff:hg,Arcadyan
+192.168.1.xx,dol.attlocal.net,ii:91:ff:C1:cx:vv,WNC
+192.168.1.xxx,MacBook1.attlocal.net,Unknown,Unknown
 
 
 fictional csv for example purposes .
