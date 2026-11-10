@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-I developed a Python-based home network discovery tool that uses Nmap to identify active devices on a local network.
+Developed a Python-based home network discovery tool that uses Nmap to identify active devices on a local network.
 
 The tool collects available device information, including IPv4 addresses, hostnames, MAC addresses, and manufacturer details. It then displays the results in the terminal and exports the inventory into a CSV file for documentation.
 
